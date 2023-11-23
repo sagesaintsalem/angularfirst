@@ -1,1 +1,0 @@
-This app was created by following the "Build your first Angular app" tutorial at https://angular.io/tutorial/first-app . 
